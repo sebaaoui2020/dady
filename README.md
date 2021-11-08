@@ -37,7 +37,7 @@
       "description": "Here is an explanation of how to complete each challenge in Challenges mode, earning you the achievement “Champion of the House!”
 This guide is referring the the “Challenges” mode that you can access through the main menu.
 It took me a second to figure these out, so I thought I would share. Thanks for reading!"
-" 
+ 
 
     },
     {
