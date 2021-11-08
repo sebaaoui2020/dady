@@ -34,34 +34,18 @@
   "GuideContent": [
     {
       "title": "Step 1",
-      "description": "Here is an explanation of how to complete each challenge in Challenges mode, earning you the achievement “Champion of the House!”
-This guide is referring the the “Challenges” mode that you can access through the main menu.
-It took me a second to figure these out, so I thought I would share. Thanks for reading."
- 
+      "description": "How To Get The Red GrabPack Hand In Poppy Playtime.Once the player enters the Playtime Co toy factory in Poppy Playtime they will be greeted by Huggy Wuggy who is standing stationary in the middle of the central room. There are several rooms here ." 
 
     },
     {
       "title": "Step 2",
-      "description": "Clean the Pool
-Objective: Remove foreign objects from the pool
-Instruction: Jump on in, and grab and toss out the four balls.
-Pick up the Poop
-Objective: Throw away the kitchen poops
-Instruction: Select each poop and drag them to the trash can, where they will disappear on impact.
-There are 7 poops hidden, all within the kitchen.
-They are located:In the fruit bowl,In front of the fridge,In the freezer,Inside of the kitchen island,The pull-out drawer to the left of the stove,Inside of the stove,Inside of the microwave."
+      "description": "but players will note that there are two doors that require a hand-scan to open. The door on the right has scanners for both the blue and red hands, but the door to the left can be opened with the blue hand alone."
+
+
     },
     {
       "title": "Step 3",
-      "description": "Put Dishes Away
-Objective: Place the dishes in the kitchen cupboards
-Instruction: There are 5 plates on the counter, 5 glasses on the counter, and 3 glasses in the sink.
-One at a time, pick the dishes up and place them into the black cabinets.
-The glasses are delicate, so take short steps as to not build up too much momentum.
-Wash the Car
-Objective: Touch the sponge to the car
-Instruction: The sponge will spawn somewhere in the room. Find it and drag it to the car!
-The most common spawns are on top of the work table, and in the stacks of tires (behind the car)."
+      "description": "Attempting to open this door will short out the power, so players will have to enter the Power room to turn it back on by using the key that appears in Huggy Wuggy’s hand. Once the power is back on, the player can return to the center room and open the door, though Huggy Wuggy has now vanished."
 
     }
   ]
